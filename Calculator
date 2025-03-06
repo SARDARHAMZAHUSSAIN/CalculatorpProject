@@ -1,4 +1,4 @@
-console.WriteLine(Hamza Hussain);
+console.WriteLine(sardar Hamza Hussain);
 console.WriteLine(24-ST-081);
 console. writeline("enter first number") ;
 int num1=convert.ToInt32("Console.ReadLine") ;
