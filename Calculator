@@ -4,8 +4,12 @@ console. writeline("enter first number") ;
 int num1=convert.ToInt32("Console.ReadLine") ;
 console. writeline("enter second number") ;
 int num2=convert.ToInt32("Console.ReadLine") ;
+ Multiply
  Divide
 num = num1/num2;
 =======
 num = num1*num2;
  Multiply
+=======
+num = num1_num2;
+ Subtraction
